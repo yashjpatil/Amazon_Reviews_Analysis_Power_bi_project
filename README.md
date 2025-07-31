@@ -36,26 +36,19 @@ Amazon_Reviews_Analysis_Power_bi_project
 1. KPI AND Cards:
    - Total Reviews
    - Average Rating
-   - Helpful Reviews
    - Total Brands
 
 2. Charts
    - Monthly Ratings by Brand*  
    - Sum of Helpful Votes by Product Name 
-   - Do MAXIMUM  Recommend  by Brand 
+   - Do count  Recommend  by Brand 
    - Average Ratings vs Target Rating by Date*  
    - Ratings by Categories*
 
 3. Slicers:
    - Brand
-   - Categories
+   - Product/name
      
-
-4. Tooltips:
-   - Review Text
-   - Review Title
-   - Helpful Count
-
 
 ## Tools Used
 
@@ -63,9 +56,7 @@ Amazon_Reviews_Analysis_Power_bi_project
 - Power Query Editor
 - DAX (Data Analysis Expressions)
 
----
-
-## Outcomes
+---## Outcomes
 
 - Found most loved & recommended brands.
 - Identified review trends over time.
@@ -76,6 +67,7 @@ Amazon_Reviews_Analysis_Power_bi_project
 
 ## Dashboard Preview
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bf998baa-508a-439a-8205-e4ebfb63435c" />
 
 
 
