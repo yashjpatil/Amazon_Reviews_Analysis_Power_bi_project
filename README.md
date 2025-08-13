@@ -15,7 +15,7 @@ Amazon_Reviews_Analysis_Power_bi_project
 - Understand customer feedback using review data.
 - Present key KPIs and interactive dashboards for decision making.
 
-
+## dataset: https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products
 ## Dataset Columns Used
 
 - brand
